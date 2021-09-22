@@ -1,0 +1,8 @@
+click==8.0.1
+Pygments==2.10.0
+PyQt5==5.15.4
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.9.0
+PyQt5-stubs==5.15.2.0
+pyqt5ac==1.2.1
+PyYAML==5.4.1
